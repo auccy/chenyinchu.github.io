@@ -1,17 +1,29 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
+- name: Chenyin Chu
+  photo: chenyin.jpg
+  info: PhD Student, Monash University
+  email: chenyin.chu@monash.edu
+  github: https://github.com/auccy
   researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
-  # Change the items in "education" you have (up to 6)
+  scholar: https://scholar.google.com/
+  cv: files/Chenyin_Chu_CV.pdf
+
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "PhD Student, Monash University",
+      "Master of Philosophy in Medicine",
+      "Master of Science in Mathematics and Statistics",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["PhD, Monash", "MPhil Medicine", "MSc Statistics"]
+
+  bio: Chenyin Chu is a PhD student at Monash University specializing in interpretable machine learning and causal modeling for neurodegenerative diseases. His research focuses on Alzheimer’s disease, dementia progression, and clinically meaningful prediction models using large-scale cohort data.
+
+  interests:
+    [
+      "Interpretable machine learning",
+      "Causal inference in healthcare",
+      "Alzheimer’s disease and dementia",
+      "Clinical prediction models",
+      "Multi-pathology prediction",
+    ]
