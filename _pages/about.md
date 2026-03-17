@@ -59,10 +59,10 @@ permalink: /about/
 
 {% if site.data.people %}
 <div class="jumbotron">
-  <h3>Collaborations and Mentoring</h3>
+  <h3>Research Collaborations</h3>
   <ul>
     {% for student in site.data.people %}
-      <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+      <li>{{ student.name }}</li>
     {% endfor %}
   </ul>
 </div>

@@ -1,24 +1,13 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
+- name: DUKE-NUS
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2021
+- name: University of Minnesota, Dr Feng Xie's group
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
+- name: Florey Institute of Neuroscience and Mental Health
 
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
+- name: Monash University, School of Translational Medicine
 
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020
+- name: National Alzheimer’s Coordinating Center (NACC)
+
+- name: Religious Orders Study and Memory and Aging Project (ROSMAP)
+
+- name: Australian Imaging, Biomarker & Lifestyle Study (AIBL)

@@ -1,23 +1,23 @@
 - name: Chenyin Chu
   photo: chenyin.jpg
-  info: PhD Student, Monash University
-  email: chenyin.chu@monash.edu
+  info: PhD Student, University of Melbourne/Monash University
+  email: chenyin.chu@monash.edu/chenyin.chu1@unimelb.edu.au
   github: https://github.com/auccy
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/
+  researchgate: https://www.researchgate.net/profile/Chenyin-Chu
+  scholar: https://scholar.google.com/citations?user=bPz9tucAAAAJ&hl=en
   cv: files/Chenyin_Chu_CV.pdf
 
   education:
     [
-      "PhD Student, Monash University",
+      "PhD Student in Neuroscience",
       "Master of Philosophy in Medicine",
       "Master of Science in Mathematics and Statistics",
     ]
 
   educationshort:
-    ["PhD, Monash", "MPhil Medicine", "MSc Statistics"]
+    ["PhD, Neuroscience", "MPhil Medicine", "MSc Statistics"]
 
-  bio: Chenyin Chu is a PhD student at Monash University specializing in interpretable machine learning and causal modeling for neurodegenerative diseases. His research focuses on Alzheimer’s disease, dementia progression, and clinically meaningful prediction models using large-scale cohort data.
+  bio: Chenyin Chu is a PhD student specializing in interpretable machine learning and causal modeling for neurodegenerative diseases. His research focuses on Alzheimer’s disease, dementia progression, and the development of clinically meaningful prediction models using large-scale cohort data.
 
   interests:
     [
