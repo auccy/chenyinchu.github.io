@@ -78,7 +78,7 @@ __If you are using this template, feel free to share your site with me, and I'll
 
 ## Introduction 
 
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
+This is an statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
 I started with the [Allan lab](https://www.allanlab.org/) webpage and modified it into a personal academic webpage that met my requirements.
 I worked in a unique set of the features that I desired and could not find in publicly available templates elsewhere.
 Some examples are:
