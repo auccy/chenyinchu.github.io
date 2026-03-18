@@ -2,8 +2,8 @@
 title: Chenyin Chu
 email: chenyin.chu@monash.edu
 description: Personal academic website of Chenyin Chu, PhD student at Monash University 
-baseurl: ""
-url: ""
+baseurl: "/chenyinchu.github.io"
+url: "https://auccy.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
