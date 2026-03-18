@@ -16,11 +16,20 @@ permalink: /publications/
 </style>
 
 <div class="jumbotron">
+
 ### Journal Articles
-{% bibliography --query @article %}
+
+- Your journal paper 1  
+- Your journal paper 2  
+- Your journal paper 3  
+
 </div>
 
 <div class="jumbotron">
+
 ### Conference Proceedings
-{% bibliography --query @inproceedings %}
+
+- Your conference paper 1  
+- Your conference paper 2  
+
 </div>
