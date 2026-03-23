@@ -21,31 +21,35 @@ permalink: /publications/
 
 **First-author publications**
 
-1. **Chu, C**, Wang Y, Ma L, Ouyang Y, Zisis G, Masters CL, Goudey B, Jin L, Pan Y.  
+1. **Chu, C**, Wang Y, Ma L, Jin L, Pan Y.  
+Predicting Post-Stroke Dementia Using Sex-Specific Risk Factors: Development of an Interpretable Clinical Scoring Tool
+*Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*. (Accepted) 2026.
+
+2. **Chu, C**, Wang Y, Ma L, Ouyang Y, Zisis G, Masters CL, Goudey B, Jin L, Pan Y.  
 Development and validation of an interpretable clinical scoring model to monitor the progression of preclinical Alzheimer’s disease.  
 *Alzheimer's Research & Therapy*. 2025;17(1):268.
 
-2. **Chu, C**, Ma L, Wang Y, Huynh ALH, Dunstan MK, Cui X, Masters CL, Goudey B, Jin L, Pan Y.  
+3. **Chu, C**, Ma L, Wang Y, Huynh ALH, Dunstan MK, Cui X, Masters CL, Goudey B, Jin L, Pan Y.  
 Predicting severity of cerebral amyloid angiopathy neuropathology: A modeling approach using NACC and ROSMAP data.  
 *Alzheimer’s & Dementia*. 2025;21(10):e70057.
 
-3. **Chu, C**, Wang Y, Ma L, Jin L, Pan Y.  
+4. **Chu, C**, Wang Y, Ma L, Jin L, Pan Y.  
 Development and validation of a predictive model to forecast cerebrovascular risk burden in older people.  
 *Alzheimer’s & Dementia*. 2025;21(8):e70543.
 
-4. **Chu, C**, Wang Y, Huynh ALH, Ng KW, Liu S, Ji G, Doecke JD, Fripp J, Masters CL, Goudey B, et al.  
+5. **Chu, C**, Wang Y, Huynh ALH, Ng KW, Liu S, Ji G, Doecke JD, Fripp J, Masters CL, Goudey B, et al.  
 Development and validation of a model to predict the progression of Alzheimer’s disease.  
 *Age and Ageing*. 2025;54(7):afaf198.
 
-5. **Chu, C**, Wang Y, Ma L, Mutimer CA, Ji G, Shi H, Yassi N, Masters CL, Goudey B, Jin L, et al.  
+6. **Chu, C**, Wang Y, Ma L, Mutimer CA, Ji G, Shi H, Yassi N, Masters CL, Goudey B, Jin L, et al.  
 Developing and validating a prediction tool for cerebral amyloid angiopathy neuropathological severity.  
 *Alzheimer’s & Dementia*. 2025;21(3):e14583.
 
-6. **Chu, C**, Wang Y, Wang Y, Fowler C, Zisis G, Masters CL, Doecke JD, Goudey B, Jin L, Pan Y.  
+7. **Chu, C**, Wang Y, Wang Y, Fowler C, Zisis G, Masters CL, Doecke JD, Goudey B, Jin L, Pan Y.  
 Development and validation of a tool to predict onset of mild cognitive impairment and Alzheimer dementia.  
 *JAMA Network Open*. 2025;8(1):e2453756.
 
-7. **Chu, C**, Low YLC, Ma L, Wang Y, Cox T, Doré V, Masters CL, Goudey B, Jin L, Pan Y.  
+8. **Chu, C**, Low YLC, Ma L, Wang Y, Cox T, Doré V, Masters CL, Goudey B, Jin L, Pan Y.  
 How can we use mathematical modeling of amyloid-β in Alzheimer’s disease research and clinical practices?  
 *Journal of Alzheimer’s Disease*. 2024;97(1):89–100.
 
