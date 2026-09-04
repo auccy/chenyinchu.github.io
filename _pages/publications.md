@@ -21,13 +21,13 @@ permalink: /publications/
 
 **First-author publications**
 
-1. **Chu, C**, Wang Y, Ma L, Jin L, Pan Y.<br>
-[Predicting Post-Stroke Dementia Using Sex-Specific Risk Factors: Development of an Interpretable Clinical Scoring Tool](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.70336).<br>
-*Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*. 2026;18(2):e70336.
-
-2. **Chu, C**, Wang Y, Jin L, Pan Y.<br>
+1. **Chu, C**, Wang Y, Jin L, Pan Y.<br>
 Development and Validation of Interpretable Multidomain Models for Multi-Pathology Prediction in Alzheimer’s Disease and Related Dementia.<br>
 *Alzheimer’s & Dementia*. (Accepted) 2026.
+
+2. **Chu, C**, Wang Y, Ma L, Jin L, Pan Y.<br>
+[Predicting Post-Stroke Dementia Using Sex-Specific Risk Factors: Development of an Interpretable Clinical Scoring Tool](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.70336).<br>
+*Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*. 2026;18(2):e70336.
 
 3. **Chu, C**, Wang Y, Ma L, Ouyang Y, Zisis G, Masters CL, Goudey B, Jin L, Pan Y.<br>
 [Development and validation of an interpretable clinical scoring model to monitor the progression of preclinical Alzheimer’s disease](https://doi.org/10.1186/s13195-025-01931-3).<br>
