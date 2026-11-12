@@ -7,11 +7,11 @@ permalink: /
 
 ### Welcome!
 
-I am a PhD student working at the intersection of **machine learning, statistical modelling, and neurodegenerative disease research**, with a particular focus on **Alzheimer’s disease, dementia risk prediction, and disease progression modelling**.
+I am a PhD student in neuroscience. I study how clinical and cognitive measurements change in **Alzheimer’s disease and related dementias (ADRD)**, and how those measurements can help estimate an individual’s risk of cognitive decline.
 
-My research aims to develop **interpretable, clinically useful, and generalisable models** for early detection, prognosis, and risk stratification using large-scale cohort data such as **NACC, ROSMAP, AIBL, and related longitudinal datasets**.
+I develop interpretable prediction models using longitudinal cohorts including NACC, ROSMAP, and AIBL. These cohorts let me test whether a model developed in one population also works in another.
 
-I am especially interested in bridging the gap between **advanced machine learning methods** and **real-world clinical translation**, with emphasis on interpretability, robustness, and precision medicine.
+I also work with [Dr Feng Xie](https://med.umn.edu/bio/feng-xie) at the University of Minnesota on **AI agents for emergency medicine**. Our current work focuses on acute coronary syndrome (ACS) and sepsis in the emergency department. I am interested in how agent-based frameworks could help clinicians follow patients with ADRD and other neurodegenerative diseases over time.
 
 <div class="container">
 <div class="row">
@@ -26,6 +26,7 @@ Illustration of interpretable modelling and data-driven prediction in neurodegen
 ### Research Interests
 
 - Interpretable machine learning in healthcare  
+- AI agents for clinical reasoning in emergency medicine
 - Alzheimer’s disease and related dementias  
 - Risk prediction and clinical scoring systems  
 - Causal inference and longitudinal modelling  
@@ -33,16 +34,16 @@ Illustration of interpretable modelling and data-driven prediction in neurodegen
 
 ### About me
 
-I hold a Master of Philosophy in Medicine and a Master of Science in Statistics and Applied Mathematics. My work focuses on applying advanced statistical modelling, machine learning, and causal inference methods to improve the prediction and monitoring of neurodegenerative diseases.
+I hold a Master of Philosophy in Medicine and a Master of Science in Statistics and Applied Mathematics. My training in both fields informs how I choose clinical questions, design prediction studies, and interpret their results.
 
 My recent research has led to publications in journals including **JAMA Network Open, Alzheimer’s & Dementia, Age and Ageing, EClinicalMedicine, Journal of Alzheimer’s Disease, and Alzheimer’s Research & Therapy**. I am particularly interested in designing **interpretable AI systems** that can support clinicians in early diagnosis, progression modelling, and personalised risk assessment.
 
-My long-term goal is to develop **clinically deployable and scientifically rigorous AI frameworks** that improve outcomes for patients affected by Alzheimer’s disease and other neurodegenerative disorders.
+My collaborators include the Digital Medicine Lab and Dr Seyed Ehsan Saffari at Duke-NUS Medical School. [More about my research collaborations]({{ site.baseurl }}/about/#research-collaborations).
 
 ### Selected Publications
 
 - **Chu, Chenyin** et al. Development and validation of a tool to predict onset of mild cognitive impairment and Alzheimer dementia. *JAMA Network Open* (2025).
 - **Chu, Chenyin** et al. Development and validation of a model to predict the progression of Alzheimer’s disease. *Age and Ageing* (2025).
-- **Chu, Chenyin** et al. Development and validation of a predictive model to forecast the cerebrovascular risk burden in older people. *Alzheimer’s & Dementia* (2025).
+- Jin Y, Xu K, Wang Y, **Chu C**, et al. [MultiDiseasePred](https://doi.org/10.21203/rs.3.rs-10963805/v1), an interpretable framework for early risk stratification in the emergency department. *Research Square* (2026, preprint).
 
 See the full publication list on the [Publications]({{ site.baseurl }}/publications/) page.

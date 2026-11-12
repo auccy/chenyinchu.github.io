@@ -17,11 +17,15 @@
   educationshort:
     ["PhD, Neuroscience", "MPhil Medicine", "MSc Statistics"]
 
-  bio: Chenyin Chu is a PhD student specializing in interpretable machine learning and causal modeling for neurodegenerative diseases. His research focuses on Alzheimer’s disease, dementia progression, and the development of clinically meaningful prediction models using large-scale cohort data.
+  bio: >-
+    Chenyin Chu is a PhD student in neuroscience who uses longitudinal cohort data to model dementia risk and progression.
+    He works with Dr Feng Xie on AI agents for acute coronary syndrome and sepsis in the emergency department.
+    He is also interested in how AI agents could help clinicians interpret changes across visits in Alzheimer’s disease and other neurodegenerative diseases.
 
   interests:
     [
       "Interpretable machine learning",
+      "AI agents for clinical reasoning in emergency medicine",
       "Causal inference in healthcare",
       "Alzheimer’s disease and dementia",
       "Clinical prediction models",

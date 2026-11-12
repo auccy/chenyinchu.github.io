@@ -1,6 +1,11 @@
-- name: DUKE-NUS
+- name: Duke-NUS Medical School — Associate Professor Nan Liu’s Digital Medicine Lab
+  url: https://www.duke-nus.edu.sg/directory/detail/liu-nan
 
-- name: University of Minnesota, Dr Feng Xie's group
+- name: Duke-NUS Medical School — Dr Seyed Ehsan Saffari, Centre for Biomedical Data Science
+  url: https://www.duke-nus.edu.sg/directory/detail/seyed-ehsan-saffari
+
+- name: University of Minnesota — Dr Feng Xie’s group
+  url: https://med.umn.edu/bio/feng-xie
 
 - name: Florey Institute of Neuroscience and Mental Health
 

@@ -37,6 +37,18 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
+<h4>AI Agents for Medicine</h4>
+
+<p>With <a href="https://med.umn.edu/bio/feng-xie">Dr Feng Xie</a> at the University of Minnesota, I study how AI agents can reason through an emergency department visit as new information arrives. We focus on time-sensitive conditions, including acute coronary syndrome (ACS) and sepsis. In our chest pain work, for example, we examine how an agent’s assessment changes between triage and the return of ECG and laboratory results.</p>
+
+<p>I am also interested in agent-based frameworks for Alzheimer’s disease and related dementias (ADRD) and other neurodegenerative diseases. A question I would like to study is whether an agent can trace changes in cognition and daily function across visits and show which observations support its interpretation.</p>
+
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
 <h4>Interpretable Machine Learning for Dementia Risk Prediction</h4>
 
 <p>
