@@ -59,6 +59,7 @@ permalink: /about/
 
 <div class="jumbotron">
   <h3 id="peer-review">Peer-Review Service</h3>
+  <p>My peer-review record includes <strong>55 manuscript reviews across 20 journals</strong>, as of November 2026. This total combines 54 manuscript reviews recorded in Springer Nature Snapp certificates and one review for Alzheimer’s &amp; Dementia.</p>
   <p>I contribute peer reviews in medical AI, dementia, neuroscience, and clinical research methods. Selected journals include</p>
   <ul>
     <li><strong>npj Digital Medicine</strong></li>

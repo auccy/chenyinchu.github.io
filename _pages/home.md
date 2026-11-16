@@ -42,6 +42,8 @@ My collaborators include the Digital Medicine Lab and Dr Seyed Ehsan Saffari at 
 
 ### Peer Review
 
+My peer-review record includes **55 manuscript reviews across 20 journals**, as of November 2026.
+
 I serve as a reviewer for journals including **npj Digital Medicine**, **Alzheimer’s Research & Therapy**, **Artificial Intelligence Review**, and **Alzheimer’s & Dementia**.
 
 [More about my peer-review service]({{ site.baseurl }}/about/#peer-review).
