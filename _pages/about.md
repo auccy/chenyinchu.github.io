@@ -57,6 +57,18 @@ permalink: /about/
 </div>
 {% endif %}
 
+<div class="jumbotron">
+  <h3 id="peer-review">Peer-Review Service</h3>
+  <p>I contribute peer reviews in medical AI, dementia, neuroscience, and clinical research methods. Selected journals include</p>
+  <ul>
+    <li><strong>npj Digital Medicine</strong></li>
+    <li><strong>Alzheimer’s Research &amp; Therapy</strong></li>
+    <li><strong>Artificial Intelligence Review</strong></li>
+    <li><strong>Alzheimer’s &amp; Dementia</strong></li>
+  </ul>
+  <p>I have also reviewed for npj Dementia, Scientific Reports, BMC Medical Informatics and Decision Making, BMC Neurology, BMC Medical Research Methodology, and other journals.</p>
+</div>
+
 {% if site.data.people %}
 <div class="jumbotron">
   <h3 id="research-collaborations">Research Collaborations</h3>

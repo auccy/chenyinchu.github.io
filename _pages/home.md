@@ -40,6 +40,12 @@ My recent research has led to publications in journals including **JAMA Network 
 
 My collaborators include the Digital Medicine Lab and Dr Seyed Ehsan Saffari at Duke-NUS Medical School. [More about my research collaborations]({{ site.baseurl }}/about/#research-collaborations).
 
+### Peer Review
+
+I serve as a reviewer for journals including **npj Digital Medicine**, **Alzheimer’s Research & Therapy**, **Artificial Intelligence Review**, and **Alzheimer’s & Dementia**.
+
+[More about my peer-review service]({{ site.baseurl }}/about/#peer-review).
+
 ### Selected Publications
 
 - **Chu, Chenyin** et al. Development and validation of a tool to predict onset of mild cognitive impairment and Alzheimer dementia. *JAMA Network Open* (2025).
