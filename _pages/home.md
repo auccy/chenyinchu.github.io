@@ -50,6 +50,7 @@ I serve as a reviewer for journals including **npj Digital Medicine**, **Alzheim
 
 ### Selected Publications
 
+- **Chu, Chenyin**, Wang Y, Jin L, Pan Y. [Development and validation of interpretable multidomain models for multi-pathology prediction in Alzheimer’s disease and related dementias](https://doi.org/10.1002/alz.71996). *Alzheimer’s & Dementia*. 2026;22(11):e71996.
 - **Chu, Chenyin** et al. Development and validation of a tool to predict onset of mild cognitive impairment and Alzheimer dementia. *JAMA Network Open* (2025).
 - **Chu, Chenyin** et al. Development and validation of a model to predict the progression of Alzheimer’s disease. *Age and Ageing* (2025).
 - Jin Y, Xu K, Wang Y, **Chu C**, et al. [MultiDiseasePred](https://doi.org/10.21203/rs.3.rs-10963805/v1), an interpretable framework for early risk stratification in the emergency department. *Research Square* (2026, preprint).

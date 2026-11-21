@@ -24,8 +24,8 @@ Browse [journal articles](#journal-articles), [preprints](#preprints), or [confe
 **First-author publications**
 
 1. **Chu, C**, Wang Y, Jin L, Pan Y.<br>
-Development and Validation of Interpretable Multidomain Models for Multi-Pathology Prediction in Alzheimer’s Disease and Related Dementia.<br>
-*Alzheimer’s & Dementia*. (Accepted) 2026.
+[Development and validation of interpretable multidomain models for multi-pathology prediction in Alzheimer’s disease and related dementias](https://doi.org/10.1002/alz.71996).<br>
+*Alzheimer’s & Dementia*. 2026;22(11):e71996.
 
 2. **Chu, C**, Wang Y, Ma L, Jin L, Pan Y.<br>
 [Predicting Post-Stroke Dementia Using Sex-Specific Risk Factors: Development of an Interpretable Clinical Scoring Tool](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.70336).<br>
